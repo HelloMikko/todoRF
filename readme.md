@@ -18,4 +18,4 @@ To-Do Desktop is a simple React & Firebase App which allows you to create simple
 [View Issues](https://github.com/users/icueMike/projects/3) before you [Submit or Errors](https://github.com/users/icueMike/projects/3) 
 
 
-MEditor Credit @Pandao
+MEditor Credit [@Pandao](https://github.com/Pandao "@Pandao")
